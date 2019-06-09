@@ -1,2 +1,0 @@
-# ReactUseStateWithEventBox
-Created with CodeSandbox
